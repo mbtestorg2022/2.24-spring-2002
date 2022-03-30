@@ -6,7 +6,7 @@ title: Swan Sample 1
 uid: 12ecd9f9-2439-4a65-d777-ee88320c6065
 ---
 
-![Spatial discretization of vessel and free surface](/courses/mechanical-engineering/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/study-materials/swan2.gif)
+{{< resource "02b7c5f0-19aa-843a-5ced-dcaa7967350b" >}}
 
 Output graph produced using MATLAB® Software.
 

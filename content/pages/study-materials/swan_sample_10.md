@@ -6,7 +6,7 @@ title: Swan Sample 10
 uid: 198bf590-9a4d-0ef8-dcee-985fe40eed27
 ---
 
-![Catamaran, s/L=0.4, 35 knots, 7500 ton, loa = 100m, B/T=2 Wake pattern in calm water.](/courses/mechanical-engineering/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/study-materials/cat_swan7.gif)
+{{< resource "e062a3cf-dafb-195c-4f6f-e3a4950c3eea" >}}
 
 Output graph produced using MATLAB® Software.
 

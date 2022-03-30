@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 73adbfa0-7dc5-9bb0-11c0-1d7e2c45fceb
 resourcetype: Image
 title: swan10.jpg
 uid: f015eecf-71f2-2345-ce11-20dcc4473e46

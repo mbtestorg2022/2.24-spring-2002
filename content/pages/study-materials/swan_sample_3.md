@@ -6,7 +6,7 @@ title: Swan Sample 3
 uid: 37f6cffd-156a-b1c4-69c5-c3efad6dbcee
 ---
 
-![Vessel advancing at 45 knots in sea state with H1/3=6m, T1=12s](/courses/mechanical-engineering/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/study-materials/swan5.gif)
+{{< resource "45173224-e728-2c6d-8458-0f37172d0377" >}}
 
 Output graph produced using MATLAB® Software.
 

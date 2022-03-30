@@ -6,7 +6,7 @@ title: Swan Sample 9
 uid: e4301b2c-6613-a14b-7c3b-42ea7eeb33dc
 ---
 
-![Monohull, 60 knots, 7500 ton, loa = 100m, B/T=4 Wake pattern in calm water](/courses/mechanical-engineering/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/study-materials/cat_swan6.gif)
+{{< resource "cd6f745f-2806-fb86-3bf6-b91408080c9e" >}}
 
 Output graph produced using MATLAB® Software.
 

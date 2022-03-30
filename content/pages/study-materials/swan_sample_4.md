@@ -6,7 +6,7 @@ title: Swan Sample 4
 uid: 88f6be3a-c5ec-9ad3-d18c-60f5750e11d1
 ---
 
-![Heave RAOs with foil positioned at x=0m. U=45 knots and AR=10](/courses/mechanical-engineering/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/study-materials/swan8.jpg)
+{{< resource "bd16f0ee-4f8c-4d24-bd2e-d185e3443913" >}}
 
 Output graph produced using MATLAB® Software.
 
